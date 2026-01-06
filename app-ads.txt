@@ -1914,3 +1914,9 @@ themediagrid.com, TERO1F, RESELLER, 35d5010d7789b49d
 themediagrid.com, TVX1JK, RESELLER, 35d5010d7789b49d
 
 google.com, pub-5982968234705796, DIRECT, f08c47fec0942fa0
+
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
+App-stock.com, 558223, Reseller, ed8c126ea5971415
+sabio.us, 100092, reseller, 96ed93aaa9795702
+freewheel.tv, 1606620, reseller
+freewheel.tv, 1606633, reseller
